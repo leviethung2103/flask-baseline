@@ -1,0 +1,2 @@
+@socketio.on('connect',namespace='/web')
+@socketio.on('disconnect',namespace='/web')
